@@ -1,4 +1,4 @@
-## Hi 👋, I'm Bikcodeh
+## Hi 👋, I'm Victor
 
 
 I'm an android developer focused on Kotlin. Enthusiastic for React Native.  
